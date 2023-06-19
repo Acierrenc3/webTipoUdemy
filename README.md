@@ -1,4 +1,4 @@
 # webTipoUdemy
 Una web del Tipo de Udemy, con un carrito multifuncional
 
-preview: https://lively-zabaione-2d1924.netlify.app/
+preview: https://symphonious-ganache-dce1e6.netlify.app
